@@ -1,2 +1,1 @@
-# test
-attemp to use github
+# testattemp to use GitHub*test connect to GitHub*
